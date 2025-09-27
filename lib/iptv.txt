@@ -1346,7 +1346,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•6『线路6』
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•90『线路70』
 浙江卫视,http://a21709.tv.netsite.cc/proxy/257951448/257951448.m3u8$LR•IPV4•90『线路71』
 浙江卫视,http://a21709.tv.netsite.cc/proxy/2059640241/2059640241.m3u8$LR•IPV4•90『线路72』
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1758981174-088db5856c692e419f15f3e77a0d9669-0-cc6301b76cbeb59ef41417a5cbf47e6d$LR•IPV4•90『线路73』
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1758984950-4d2f51c479de1494fd3b16e8a12931b3-0-8be5f1facb6ae18cba440cc554ab2347$LR•IPV4•90『线路73』
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8$LR•IPV4•90『线路74』
 浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8$LR•IPV4•90『线路75』
 浙江卫视,http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$LR•IPV4•90『线路76』
@@ -1691,7 +1691,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•6『线路6』
 重庆卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000004796458.m3u8$LR•IPV4•71『线路50』
 重庆卫视,http://a21709.tv.netsite.cc/proxy/562106987/562106987.m3u8$LR•IPV4•71『线路51』
 重庆卫视,http://220.192.12.20:8003/udp/225.0.4.187:7980?$LR•IPV4•71『线路52』
-重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509272051/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•71『线路53』
+重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509272301/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•71『线路53』
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8$LR•IPV4•71『线路54』
 重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8$LR•IPV4•71『线路55』
 重庆卫视,http://39.134.65.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8$LR•IPV4•71『线路56』
@@ -2339,7 +2339,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•6『线路6』
 河南卫视,http://home.wwang.pw:35455/itv/1000000002000027731.m3u8?cdn=ystenlive$LR•IPV4•72『线路48』
 河南卫视,http://39.164.160.249:9901/tsfile/live/0139_1.m3u8$LR•IPV4•72『线路49』
 河南卫视,http://a21709.tv.netsite.cc/proxy/251465659/251465659.m3u8$LR•IPV4•72『线路50』
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ccbbe1c0168074811de31a82918a408c&wsTime=1758994949$LR•IPV4•72『线路51』
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=59e4cbd88afbdeff585985cd2b9c5843&wsTime=1758998552$LR•IPV4•72『线路51』
 河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8$LR•IPV4•72『线路52』
 河南卫视,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$LR•IPV4•72『线路53』
 河南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hnws$LR•IPV4•72『线路54』
