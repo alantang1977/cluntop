@@ -2813,7 +2813,7 @@ http://a21709.tv.netsite.cc/proxy/562106987/562106987.m3u8$LR•IPV4•59『线�
 #EXTINF:-1 tvg-id="41" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://220.192.12.20:8003/udp/225.0.4.187:7980?$LR•IPV4•59『线路41』
 #EXTINF:-1 tvg-id="42" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509290544/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•59『线路42』
+http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509291000/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•59『线路42』
 #EXTINF:-1 tvg-id="43" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://iptv.huuc.edu.cn/hls/cqhd.m3u8$LR•IPV4•59『线路43』
 #EXTINF:-1 tvg-id="44" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
@@ -6975,7 +6975,7 @@ https://epg.pw/stream/c63a5626286e9017c57efde96337b54a1cb81a6626bb93f486fcbc1caa
 #EXTINF:-1 tvg-id="25" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
 https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8$LR•IPV4•41『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz05ZjNiOTk3MWQwMzAxZTdmNjQ5Yjk3ZDZjMzQ4MWQ1OCZ1aWQ9JnV1aWQ9NTRiZTE5ZTNmZDhiNmFiNDBkYjk1NGU2MjQ4OWYwNGUtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc1OTEwMDU3OQ,,/JYKTMPP360.m3u8$LR•IPV4•41『线路26』
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0xZGJlMmQ3ZjBkYzM3Mjc2OTEzOWIyNjEyMjEwODQxYiZ1aWQ9JnV1aWQ9ZWFlYWRiYzZkY2NkZGZlYTIxOTkxZGMzZTRiNmIwMjItNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc1OTEyOTQzMQ,,/JYKTMPP360.m3u8$LR•IPV4•41『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
 https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8$LR•IPV4•41『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
@@ -7171,9 +7171,9 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8$LR�
 #EXTINF:-1 tvg-id="22" tvg-name="都市剧场" group-title="数字频道",都市剧场
 http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&Ace$LR•IPV6•24『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="都市剧场" group-title="数字频道",都市剧场
-https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•24『线路23』
+http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•24『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="都市剧场" group-title="数字频道",都市剧场
-http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•24『线路24』
+https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•24『线路24』
 #EXTINF:-1 tvg-id="1" tvg-name="金色学堂" group-title="数字频道",金色学堂
 http://sh.lnott.top:880/dx109.m3u8$LR•IPV4•10『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="金色学堂" group-title="数字频道",金色学堂
@@ -7769,9 +7769,9 @@ http://[2409:8087:5e08:25::4]:6610/000000001000/9001547084732463424/index.m3u8?c
 #EXTINF:-1 tvg-id="24" tvg-name="法治天地" group-title="上海频道",法治天地
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/index.m3u8$LR•IPV6•26『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="法治天地" group-title="上海频道",法治天地
-https://cc06.tv12.xyz/42.m3u8$LR•IPV4•26『线路25』
+http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8$LR•IPV6•26『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="法治天地" group-title="上海频道",法治天地
-http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8$LR•IPV6•26『线路26』
+https://cc06.tv12.xyz/42.m3u8$LR•IPV4•26『线路26』
 #EXTINF:-1 tvg-id="1" tvg-name="第一财经" group-title="上海频道",第一财经
 https://epg.pw/stream/34bf6946fa5dc33632ff8bbd45ea1356adb3fb17ddd977b85c7cdf6073a0196a.m3u8$LR•IPV4•29『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="第一财经" group-title="上海频道",第一财经
