@@ -7533,9 +7533,9 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/index.m3u8$LR•IPV6•33�
 #EXTINF:-1 tvg-id="31" tvg-name="都市剧场" group-title="数字频道",都市剧场
 http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226155/index.m3u8$LR•IPV6•33『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="都市剧场" group-title="数字频道",都市剧场
-http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•33『线路32』
+https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•33『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="都市剧场" group-title="数字频道",都市剧场
-https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•33『线路33』
+http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•33『线路33』
 #EXTINF:-1 tvg-id="1" tvg-name="金色学堂" group-title="数字频道",金色学堂
 http://sh.lnott.top:880/dx109.m3u8$LR•IPV4•10『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="金色学堂" group-title="数字频道",金色学堂
