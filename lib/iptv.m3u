@@ -337,7 +337,7 @@ http://218.13.14.6:60050/tsfile/live/1004_1.m3u8$LR•IPV4•54『线路33』
 #EXTINF:-1 tvg-id="34" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://58.57.40.22:9901/tsfile/live/1003_1.m3u8$LR•IPV4•54『线路34』
 #EXTINF:-1 tvg-id="35" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1761703384-1-pcs836b18704058488b9badb2cb13c495df-4c05d06de34dd465a13b3a83048d577e&yid=pcs836b18704058488b9badb2cb13c495df$LR•IPV4•54『线路35』
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1761752700-1-b88f66fba8b56fe9b5a9434ccbacbe91-344c031fba704f7977aa31eaa8039470&yid=b88f66fba8b56fe9b5a9434ccbacbe91$LR•IPV4•54『线路35』
 #EXTINF:-1 tvg-id="36" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$LR•IPV4•54『线路36』
 #EXTINF:-1 tvg-id="37" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
@@ -7533,7 +7533,7 @@ https://epg.pw/stream/c63a5626286e9017c57efde96337b54a1cb81a6626bb93f486fcbc1caa
 #EXTINF:-1 tvg-id="32" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
 https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8$LR•IPV4•50『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9YTBmOGY2OGQwNjU5MDM3ZDM4NDEzNmY1NGYzYjA5ZTMmdWlkPSZ1dWlkPTRlMGE0NWRhMzE4N2ZhMTA0MTdmOWRmMWJkOGRjOGFjLTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NjE2NzA1Mzc,/JYKTMPP360.m3u8$LR•IPV4•50『线路33』
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz04OTlkNWJiNGZkM2Q2ZWZiOGM2ZmQ2ZTM4NDczN2IwNiZ1aWQ9JnV1aWQ9NjM5NmY5ZTllNDE5ZmZhMzY3OGYwZGVjZDI5ZmQ3NTQtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTcwMjkyOA,,/JYKTMPP360.m3u8$LR•IPV4•50『线路33』
 #EXTINF:-1 tvg-id="34" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
 http://ygbh.site/php/bfgd.php?id=105$LR•IPV4•50『线路34』
 #EXTINF:-1 tvg-id="35" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
@@ -7771,9 +7771,9 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/index.m3u8$LR•IPV6•33�
 #EXTINF:-1 tvg-id="31" tvg-name="都市剧场" group-title="数字频道",都市剧场
 http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226155/index.m3u8$LR•IPV6•33『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="都市剧场" group-title="数字频道",都市剧场
-https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•33『线路32』
+http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•33『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="都市剧场" group-title="数字频道",都市剧场
-http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•33『线路33』
+https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•33『线路33』
 #EXTINF:-1 tvg-id="1" tvg-name="金色学堂" group-title="数字频道",金色学堂
 http://sh.lnott.top:880/dx109.m3u8$LR•IPV4•10『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="金色学堂" group-title="数字频道",金色学堂
