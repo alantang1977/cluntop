@@ -2551,9 +2551,9 @@ http://home.wwang.pw:35455/itv/1000000005000265017.m3u8?cdn=ystenlive$LR•IPV4�
 #EXTINF:-1 tvg-id="32" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8$LR•IPV4•55『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://220.192.12.20:8003/udp/225.0.4.187:7980?$LR•IPV4•55『线路33』
+http://p6.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202511161200/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•55『线路33』
 #EXTINF:-1 tvg-id="34" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://p6.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202511161200/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•55『线路34』
+http://220.192.12.20:8003/udp/225.0.4.187:7980?$LR•IPV4•55『线路34』
 #EXTINF:-1 tvg-id="35" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://iptv.huuc.edu.cn/hls/cqhd.m3u8$LR•IPV4•55『线路35』
 #EXTINF:-1 tvg-id="36" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
@@ -8139,11 +8139,11 @@ http://cdn.163.dedyn.io/live/fhzw/stream.m3u8$LR•IPV4•31『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="凤凰中文" group-title="港·澳·台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$LR•IPV4•31『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="凤凰中文" group-title="港·澳·台",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$LR•IPV4•31『线路12』
+http://api.mg.itv888.cn:8080/streams/av3zqsgq64m/index.m3u8$LR•IPV4•31『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="凤凰中文" group-title="港·澳·台",凤凰中文
-http://api.mytv666.top/api/hk.php?id=3635353536383939393264346132646363626433646461373332353365633339267469643d74762669643d3230$LR•IPV4•31『线路13』
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$LR•IPV4•31『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="凤凰中文" group-title="港·澳·台",凤凰中文
-http://api.mg.itv888.cn:8080/streams/av3zqsgq64m/index.m3u8$LR•IPV4•31『线路14』
+http://api.mytv666.top/api/hk.php?id=3635353536383939393264346132646363626433646461373332353365633339267469643d74762669643d3230$LR•IPV4•31『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="凤凰中文" group-title="港·澳·台",凤凰中文
 http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8$LR•IPV4•31『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="凤凰中文" group-title="港·澳·台",凤凰中文
@@ -8201,11 +8201,11 @@ https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd$LR•IPV4•30『线�
 #EXTINF:-1 tvg-id="11" tvg-name="凤凰资讯" group-title="港·澳·台",凤凰资讯
 http://cdn3.163189.xyz/live/fhzx/stream.m3u8$LR•IPV4•30『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="凤凰资讯" group-title="港·澳·台",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$LR•IPV4•30『线路12』
+http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8$LR•IPV4•30『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="凤凰资讯" group-title="港·澳·台",凤凰资讯
-http://api.mytv666.top/api/hk.php?id=3639313932626236616366636537633734323039313738383137613037633739267469643d74762669643d3231$LR•IPV4•30『线路13』
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$LR•IPV4•30『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="凤凰资讯" group-title="港·澳·台",凤凰资讯
-http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8$LR•IPV4•30『线路14』
+http://api.mytv666.top/api/hk.php?id=3639313932626236616366636537633734323039313738383137613037633739267469643d74762669643d3231$LR•IPV4•30『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="凤凰资讯" group-title="港·澳·台",凤凰资讯
 http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8$LR•IPV4•30『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="凤凰资讯" group-title="港·澳·台",凤凰资讯
@@ -8367,29 +8367,29 @@ https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8$LR•IPV4•37『线路36�
 #EXTINF:-1 tvg-id="37" tvg-name="香港卫视" group-title="港·澳·台",香港卫视
 https://yvxymm.tv12.xyz/175.m3u8$LR•IPV4•37『线路37』
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠" group-title="港·澳·台",翡翠
-https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40$LR•IPV4•30『线路1』
+http://bxtv.3a.ink/api.php?id=fct$LR•IPV4•30『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠" group-title="港·澳·台",翡翠
-https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』$LR•IPV4•30『线路2』
+https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40$LR•IPV4•30『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="翡翠" group-title="港·澳·台",翡翠
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$LR•IPV4•30『线路3』
+https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』$LR•IPV4•30『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="翡翠" group-title="港·澳·台",翡翠
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$LR•IPV4•30『线路4』
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$LR•IPV4•30『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="翡翠" group-title="港·澳·台",翡翠
-http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8$LR•IPV4•30『线路5』
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$LR•IPV4•30『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="翡翠" group-title="港·澳·台",翡翠
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$LR•IPV4•30『线路6』
+http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8$LR•IPV4•30『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="翡翠" group-title="港·澳·台",翡翠
-http://php.jdshipin.com/TVOD/iptv.php?id=fct$LR•IPV4•30『线路7』
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$LR•IPV4•30『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="翡翠" group-title="港·澳·台",翡翠
-http://php.jdshipin.com/TVOD/iptv.php?id=fct4$LR•IPV4•30『线路8』
+http://php.jdshipin.com/TVOD/iptv.php?id=fct$LR•IPV4•30『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="翡翠" group-title="港·澳·台",翡翠
-http://php.jdshipin.com:8880/smt.php?id=jade_twn$LR•IPV4•30『线路9』
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4$LR•IPV4•30『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="翡翠" group-title="港·澳·台",翡翠
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2$LR•IPV4•30『线路10』
+http://php.jdshipin.com:8880/smt.php?id=jade_twn$LR•IPV4•30『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="翡翠" group-title="港·澳·台",翡翠
-http://fm1077.serv00.net/Smart.php?id=jade_twn$LR•IPV4•30『线路11』
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2$LR•IPV4•30『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="翡翠" group-title="港·澳·台",翡翠
-http://bxtv.3a.ink/api.php?id=fct$LR•IPV4•30『线路12』
+http://fm1077.serv00.net/Smart.php?id=jade_twn$LR•IPV4•30『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="翡翠" group-title="港·澳·台",翡翠
 http://101.35.240.114:88/live.php?id=翡翠台$LR•IPV4•30『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="翡翠" group-title="港·澳·台",翡翠
@@ -8427,27 +8427,27 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2$LR•IPV4•30『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="翡翠" group-title="港·澳·台",翡翠
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2$LR•IPV4•30『线路30』
 #EXTINF:-1 tvg-id="1" tvg-name="明珠" group-title="港·澳·台",明珠
-http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$LR•IPV4•25『线路1』
+http://bxtv.3a.ink/api.php?id=mz$LR•IPV4•25『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="明珠" group-title="港·澳·台",明珠
-http://php.jdshipin.com:8880/smt.php?id=pearl_twn$LR•IPV4•25『线路2』
+http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$LR•IPV4•25『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="明珠" group-title="港·澳·台",明珠
-http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8$LR•IPV4•25『线路3』
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn$LR•IPV4•25『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="明珠" group-title="港·澳·台",明珠
-https://stream1.freetv.fun/ming-zhu-10.m3u8$LR•IPV4•25『线路4』
+http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8$LR•IPV4•25『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="明珠" group-title="港·澳·台",明珠
-https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8$LR•IPV4•25『线路5』
+https://stream1.freetv.fun/ming-zhu-10.m3u8$LR•IPV4•25『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="明珠" group-title="港·澳·台",明珠
-http://bxtv.3a.ink/api.php?id=mz$LR•IPV4•25『线路6』
+https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8$LR•IPV4•25『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="明珠" group-title="港·澳·台",明珠
-https://migu.188766.xyz/?migutoken=7587aa81b1dcc4ed3adff2166ecdaf82&id=pearl_twn&type=dy$LR•IPV4•25『线路7』
+http://bxtv.3a.ink/api.php?id=mz$LR•IPV4•25『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="明珠" group-title="港·澳·台",明珠
-https://mytv.cdn.loc.cc/o12.php?id=mzt$LR•IPV4•25『线路8』
+https://migu.188766.xyz/?migutoken=7587aa81b1dcc4ed3adff2166ecdaf82&id=pearl_twn&type=dy$LR•IPV4•25『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="明珠" group-title="港·澳·台",明珠
-https://migu.188766.xyz/?migutoken=f7fca5fceffc820a3465098e3e42fda9&id=pearl_twn&type=dy$LR•IPV4•25『线路9』
+https://mytv.cdn.loc.cc/o12.php?id=mzt$LR•IPV4•25『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="明珠" group-title="港·澳·台",明珠
-https://stream1.freetv.fun/ming-zhu-1.ctv$LR•IPV4•25『线路10』
+https://migu.188766.xyz/?migutoken=f7fca5fceffc820a3465098e3e42fda9&id=pearl_twn&type=dy$LR•IPV4•25『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="明珠" group-title="港·澳·台",明珠
-http://bxtv.3a.ink/api.php?id=mz$LR•IPV4•25『线路11』
+https://stream1.freetv.fun/ming-zhu-1.ctv$LR•IPV4•25『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="明珠" group-title="港·澳·台",明珠
 http://bxtv.3a.ink/api.php?id=mz$LR•IPV4•25『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="明珠" group-title="港·澳·台",明珠
