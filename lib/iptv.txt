@@ -882,7 +882,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•4『线路4』
 浙江卫视,http://home.wwang.pw:35455/itv/1000000005000265031.m3u8?cdn=ystenlive$LR•IPV4•75『线路53』
 浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8$LR•IPV4•75『线路54』
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•75『线路55』
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1764877380-ecdd66ac283e72a7a806e98657469804-0-bea7ffa6d776433012e41709ccddfd45$LR•IPV4•75『线路56』
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1764881516-bd48edf3138bf865360a821d2b34ee96-0-ca25efa06f54f99b10a2eb710bc1d640$LR•IPV4•75『线路56』
 浙江卫视,http://pull-skycorp.speedws.com/live/gbH4PLQ3sx9tsENsNRHYN0fXCkRq5E1sVCiXPZPoRHSwF6qIbcq.flv$LR•IPV4•75『线路57』
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8$LR•IPV4•75『线路58』
 浙江卫视,http://ygbh.site/php/bfgd.php?id=094$LR•IPV4•75『线路59』
