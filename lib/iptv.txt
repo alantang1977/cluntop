@@ -90,7 +90,7 @@ CCTV4中文国际,http://tvbox6.icu/tv/migu.php?id=cctv4o$LR•IPV4•30『线�
 CCTV4中文国际,http://tvbox6.icu/tv/migu.php?id=cctv4a$LR•IPV4•30『线路11』
 CCTV4中文国际,http://148.135.93.213/live.php?id=CCTV4$LR•IPV4•30『线路12』
 CCTV4中文国际,http://218.13.14.6:60050/tsfile/live/1004_1.m3u8$LR•IPV4•30『线路13』
-CCTV4中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1788339600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0347db690f4da782d96ff460444518d6&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•30『线路14』
+CCTV4中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1788350400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b9f4f3257680c871c1663b8affb04d95&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•30『线路14』
 CCTV4中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$LR•IPV4•30『线路15』
 CCTV4中文国际,http://175.8.28.207:9999/tsfile/live/0004_1.m3u8$LR•IPV4•30『线路16』
 CCTV4中文国际,http://t.061899.xyz/tl/tl.php?id=cctv4$LR•IPV4•30『线路17』
@@ -277,7 +277,7 @@ CCTV9纪录,http://tvbox6.icu/tv/migu.php?id=cctv9$LR•IPV4•28『线路7』
 CCTV9纪录,http://148.135.93.213/live.php?id=CCTV9$LR•IPV4•28『线路8』
 CCTV9纪录,http://218.13.14.6:60050/tsfile/live/1009_1.m3u8$LR•IPV4•28『线路9』
 CCTV9纪录,http://74.91.26.218:82/live/cctv9hd.m3u8$LR•IPV4•28『线路10』
-CCTV9纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e1b0d77c7a29f1aade90889fdbb503a5$LR•IPV4•28『线路11』
+CCTV9纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=68a0b7d10de671dbf20455dcc7066220$LR•IPV4•28『线路11』
 CCTV9纪录,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8$LR•IPV4•28『线路12』
 CCTV9纪录,http://175.8.28.207:9999/tsfile/live/0009_1.m3u8$LR•IPV4•28『线路13』
 CCTV9纪录,http://t.061899.xyz/tl/tl.php?id=cctv9$LR•IPV4•28『线路14』
